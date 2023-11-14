@@ -6,4 +6,4 @@ GridSearchCV for extracting best parameters for RandomForestRegressor using SciK
 
 StreamLit for deploying it on the web 
 
-any Doubts mail me [manishchikoti@gmail.com](url)
+For Any Queries mail me manishchikoti@gmail.com
